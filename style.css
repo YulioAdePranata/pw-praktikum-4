@@ -1,0 +1,18 @@
+table{
+    border-collapse:collapse;
+    font:normal 12px;
+    color:#333333;
+}
+table th {
+    background:#eeff00;
+    color:#030000;
+    font-weight:bold;
+    font-size:14px;
+}
+table th,
+table td {
+    vertical-align:top;
+    padding:5px 10px;
+    border:1px solid #696969;
+}
+
